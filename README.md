@@ -39,13 +39,13 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - [Assignment 3]
 - Mar./12: [Texture Mapping]
 - Mar./14: [Texture Mapping]
-- Mar./19: [Spacial Data Structure]
-- Mar./21: Spacial Data Structure
-- Mar./26: [Spatial Deformations]
-- Mar./28: [Skeleton Deformations]
-- Apr./2 [Colloquim]
-- Apr./4 [Mesh]
-- Apr./9: 
+- Mar./19: Spring Break
+- Mar./21: Spring Break
+- Mar./26: [Spacial Data Structure]
+- Mar./28: [Spacial Data Structure]
+- Apr./2 [Spatial Deformations]
+- Apr./4 [Skeleton Deformations]
+- Apr./9: [Mesh]
 - Apr./11 and Apr./16: Meshing
 - Apr./18 [Colloquim]
 - Apr./23: [Procedural Synthesis]
