@@ -20,8 +20,8 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Jan./10: [Colors and Images]
 - Jan./15: [Ray Tracing]
 - Jan./17: [C++]
-- Assignment 1: [Ray Tracing]
 - Jan./22:[Basic Linear Algebra]
+- Assignment 1: [Ray Tracing]
 - Jan./24: [View Transformations]
 - Jan./29: [Rasterization]
 - Jan./31: [The Graphics Pipeline, Part 1]
@@ -30,22 +30,23 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Assignment 2: [2D Rasterization]
 - Feb./12: [The Graphics Pipeline, Part 4]
 - Feb./14: [Curves, Part 1]
-- Feb./19: 
-- Feb./21: 
-- Feb./26: [Curves, Part 2]
-- Feb./28: [Curves, Part 3]
-- Mar./5: [Curves, Part 4]
-- Mar./7: [Surfaces]
+- Feb./19: [Curves, Part 2]
+- Feb./21: [Curves, Part 3]
+- Feb./26: [Curves, Part 4]
 - [Assignment 3]
+- Feb./28: [Surfaces] 
+- Mar./5: 
+- Mar./7: 
 - Mar./12: [Texture Mapping]
 - Mar./14: [Texture Mapping]
-- Mar./19: [Spacial Data Structure]
-- Mar./21: Spacial Data Structure
-- Mar./26: [Spatial Deformations]
-- Mar./28: [Skeleton Deformations]
-- Apr./2 [Colloquim]
-- Apr./4 [Mesh]
-- Apr./9: 
+- Mar./19: Spring Break
+- Mar./21: Spring Break
+-[Final Project]
+- Mar./26: [Spacial Data Structure]
+- Mar./28: [Spacial Data Structure]
+- Apr./2 [Spatial Deformations]
+- Apr./4 [Skeleton Deformations]
+- Apr./9: [Mesh]
 - Apr./11 and Apr./16: Meshing
 - Apr./18 [Colloquim]
 - Apr./23: [Procedural Synthesis]
