@@ -32,10 +32,10 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Feb./14: [Curves, Part 1]
 - Feb./19: [Curves, Part 2]
 - Feb./21: [Curves, Part 3]
-- Feb./26: [Curves, Part 4]
+- Feb./26: [Colloquium: Robust Meshing]
+- Feb./28: [Curves, Part 4]
 - [Assignment 3]
-- Feb./28: [Surfaces] 
-- Mar./5: 
+- Mar./5: [Surfaces] 
 - Mar./7: 
 - Mar./12: [Texture Mapping]
 - Mar./14: [Texture Mapping]
