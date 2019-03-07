@@ -36,13 +36,13 @@ The schedule is tentative and will be adjusted along the way, the course materia
 - Feb./28: [Curves, Part 4]
 - [Assignment 3]
 - Mar./5: [Surfaces] 
-- Mar./7: 
+- Mar./7: [Texture Mapping]
 - Mar./12: [Texture Mapping]
-- Mar./14: [Texture Mapping]
+- Mar./14: [Colloquim]
 - Mar./19: Spring Break
 - Mar./21: Spring Break
--[Final Project]
 - Mar./26: [Spacial Data Structure]
+-[Final Project]
 - Mar./28: [Spacial Data Structure]
 - Apr./2 [Spatial Deformations]
 - Apr./4 [Skeleton Deformations]
